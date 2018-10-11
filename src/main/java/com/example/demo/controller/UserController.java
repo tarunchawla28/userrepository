@@ -18,10 +18,10 @@ public class UserController {
 	@Autowired
 	UserService userService;
 
-	@GetMapping("/")
-	public String get() {
-		return "Hello";
-	}
+	//@GetMapping("/")
+	//public String get() {
+	//	return "Hello";
+	//}
 
 	@GetMapping(value = "/getUsers")
 	public List<UserRegistry> getUsers() {
