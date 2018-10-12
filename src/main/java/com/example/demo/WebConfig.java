@@ -9,5 +9,5 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @ComponentScan(basePackages = "com.example.demo")
 public class WebConfig {
 
-//changes in newbranch
+//changes in newbranches
 }
