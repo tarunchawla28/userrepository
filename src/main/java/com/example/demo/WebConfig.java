@@ -8,9 +8,5 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @EnableWebMvc
 @ComponentScan(basePackages = "com.example.demo")
 public class WebConfig {
-
 //changes in newbranches
-//get pull request
-//Some changes
-//done	s
 }
