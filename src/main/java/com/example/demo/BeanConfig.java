@@ -23,7 +23,7 @@ public class BeanConfig {
 		
 		BasicDataSource dataSource = new BasicDataSource();
 		dataSource.setDriverClassName("com.mysql.jdbc.Driver");
-		dataSource.setUrl("jdbc:mysql://localhost:3306/user");
+		dataSource.setUrl("jdbc:mysql://my23119dns.EastUS2.cloudapp.azure.com:3306/user");
 		dataSource.setUsername("root");
 		dataSource.setPassword("Welcome123");
 		return dataSource;
