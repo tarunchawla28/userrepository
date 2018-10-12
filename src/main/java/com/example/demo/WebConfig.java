@@ -13,5 +13,5 @@ public class WebConfig {
 //changes in newbranchsssssssssssssssssssssss
 //=======
 //changes in newbranches
-//>>>>>>> newbranch
+
 }
