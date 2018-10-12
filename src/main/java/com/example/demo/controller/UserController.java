@@ -22,6 +22,7 @@ public class UserController {
 	//public String get() {
 	//	return "Hello";
 	//}
+//Tarun
 
 	@GetMapping(value = "/getUsers")
 	public List<UserRegistry> getUsers() {
