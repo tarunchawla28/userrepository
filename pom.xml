@@ -10,7 +10,7 @@
 	<packaging>war</packaging>
 
 	<name>demo</name>
-	<description>Demo project prod  for Spring Boot</description>
+	<description>Demo project prod1  for Spring Boot</description>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
