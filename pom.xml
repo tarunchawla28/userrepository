@@ -10,7 +10,11 @@
 	<packaging>war</packaging>
 
 	<name>demo</name>
+<<<<<<< HEAD
 	<description>Demo in New Branch  for Spring Boot</description>
+=======
+	<description>Demo project xyz for Spring Boot</description>
+>>>>>>> 8569f5ffda359bc06531de695e86581acf59382e
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
